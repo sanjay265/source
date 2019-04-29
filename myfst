@@ -1,0 +1,12 @@
+#!/bin/bash
+echo who are you?
+read name
+echo Hey! $name, welcome to ubuntu!
+echo "what's your age?"
+read age
+if [ "$age" -gt 20 ]
+then 
+echo 'you are allowed to drink! cheers!'
+else
+ echo 'Grow old, You littel DIck!!'
+fi
