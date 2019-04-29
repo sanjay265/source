@@ -1,5 +1,5 @@
 #!/bin/bash
-echo who are you?
+echo how are you?
 read name
 echo Hey! $name, welcome to ubuntu!
 echo "what's your age?"
